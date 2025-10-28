@@ -127,3 +127,6 @@ def plot_economic_metrics(analysis_results):
     
     plt.tight_layout()
     plt.show()
+
+
+    """sdaad"""
